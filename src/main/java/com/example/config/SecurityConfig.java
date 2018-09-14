@@ -19,6 +19,9 @@ import org.springframework.stereotype.Component;
 import javax.sql.DataSource;
 
 /**
+ *
+ * spring security基于spring aop和servlet规范中的filter实现的安全框架。
+ *
  * Created by Administrator on 2018/9/10 0010.
  */
 @EnableWebSecurity
